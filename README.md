@@ -10,6 +10,10 @@ Learn how to build a powerful GraphQL API using Apollo Server! This tutorial wal
 
 🔗 Official Site: [https://graphql.org](https://graphql.org)
 
+### -> typeDef define the structure of data(blueprint),show what can be requested or changed in the system.
+### -> resolvers are the functions that provide actual data for queriesor change requested on typedefs.
+### Scalar types in graphQl := ID, String, Boolean, int, Float 
+
 ---
 
 ## 🛰️ What is Apollo Server?
